@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shimar-Ahamed
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning MERN stack
 - 📫 How to reach me shimar10106@gmail.com
 - ⚡ Fun fact: Eat ... Code ... Sleep ...
 
